@@ -1,4 +1,4 @@
-//export const testJSON = {
+export const json = {
     "data": [
       {
         "type": "gif",
